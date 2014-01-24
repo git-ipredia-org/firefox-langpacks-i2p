@@ -1,0 +1,5 @@
+<ul>
+  <li>Kontrollera att proxyinställningarna är riktiga.</li>
+  <li>Kontakta nätverksadministratören för att säkerställa att proxyservern
+    fungerar.</li>
+</ul>

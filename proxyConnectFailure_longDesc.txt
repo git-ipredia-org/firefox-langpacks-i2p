@@ -1,0 +1,5 @@
+<ul>
+  <li>Check the proxy settings to make sure that they are correct.</li>
+  <li>Contact your network administrator to make sure the proxy server is
+    working.</li>
+</ul>
