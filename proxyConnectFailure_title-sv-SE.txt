@@ -1,1 +1,1 @@
-Proxyservern avvisar anslutningen
+Ha tålamod medan I2P startar upp och letar upp peers
