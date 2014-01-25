@@ -1,1 +1,1 @@
-The proxy server is refusing connections
+Please have patience as I2P boots up and finds peers
