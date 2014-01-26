@@ -1,4 +1,4 @@
 <ul>
-  <li>Ha lite tålamod...</li>
-  <li><a href=http://localhost:7657/>I2P-routerkonsol</a></li>
+  <li>Detta kan ta en liten stund, så ha tålamod.</li>
+  <li><a href='http://localhost:7657'/>I2P-routerkonsol</a></li>
 </ul>
