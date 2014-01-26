@@ -1,0 +1,4 @@
+<ul>
+  <li>Ceci peut prendre du temps, merci d'être patient.</li>
+  <li><a href='http://localhost:7657/'>Console du routeur I2P</a></li>
+</ul>
