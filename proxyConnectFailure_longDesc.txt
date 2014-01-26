@@ -1,4 +1,4 @@
 <ul>
-  <li>Patience please...</li>
-  <li><a href=http://localhost:7657/>I2P Router Console</a></li>
+  <li>This may take a while, so please be patient.</li>
+  <li><a href='http://localhost:7657/'>I2P Router Console</a></li>
 </ul>
